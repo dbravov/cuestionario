@@ -1,0 +1,8 @@
+1 En tus palabras, ¿Qué es internet?
+Una red que conecta servidores de todas las partes del mundo para que puedan funcionar entre si.
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Los medios físicos de propagación son las diferentes formas en las que se comunican los servidores, pueden ser de manera de cable o de onda
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+La estrucutra del internet es una red que en conjunto da estabilidad a la conexión de computadoras. La IP dice de donde es la computadora y los DNS juntan los IP con las páginas
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+El procedimiento es que tu telefono se conecta a la red que tiene spotify en la red, se podría decir que es una red dentro de la red, a la cual te conectas junto con otras compañías para acceder a las canciones.
