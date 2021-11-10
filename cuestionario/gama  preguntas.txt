@@ -1,0 +1,33 @@
+Emilio Gama
+1.- En tus palabras, ¿Qué es internet?
+Es una conexión de redes operadas independientemente entre las computadoras por medio inalambrico.
+
+2.- Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Es atraves de información binaria, electricidad, luz y ondas de radio
+
+3.- ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+De el dispositivo al wifi al internet O isp que conecta a billones de redes, cada dispositivo tiene una dirección ip que es enviada a otros dispositivos (internet del pais- internet de la region- subredes- dispositivo).
+[5:57 PM]
+4.- Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Usa el DNS para buscar los nombres principales y obtener la direccion ip para conectar la computadora al destino en este caso spotify.
+
+5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
+http significa Hyper, Text, Transfer, Protocol sirve para poder entrar a una pagina es pedir acceso.Html Hyper, Text, Markup, Language.Sirve para diseñar una pagina web
+
+6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+la encripcion es una manera en la que se protegen tus datos en el internet, ya sea tu numero de tarjeta de crédito o débito, 
+tus contraseñas, tu dinero y hasta emails.
+La manera en la que se encripta es de una forma en la que todos los datos se revuelven para que si se llega a acceder a ellos no  se pueda leer el mensaje, 
+clave o lo que sea que se tenga que proteger sobre tus datos privados. 
+
+
+7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+ Maneras de cuidarte de cyber crimen es no confiandote en todo lo que veas y abras porque te pueden sacar mucha informacion o aveces hasta tu propio dinero. 
+ Siempre asegurate de que es una red confiable.Usa contraseñas buenas que no sean simples, siempre checa el adress de las cosas que te manden o habras.
+ Se constante en actualizar e instalar cosas de proteccion contra viruses.No instales software que no sea confiable.
+[5:57 PM]
+8.- ¿Cómo funciona la búsqueda de google?
+el motor de búsqueda busca en cada una de esas palabras en el índice de búsqueda para obtener inmediatamente una lista de todas 
+las páginas de Internet que contienen esas palabras. Pero solo buscar estos términos de búsqueda podría devolver millones de páginas, 
+por lo que el motor de búsqueda debe poder determinar las mejores coincidencias para mostrarle primero. Aquí es donde se vuelve complicado
+ porque el motor de búsqueda puede necesitar adivinar lo que estás buscando.
